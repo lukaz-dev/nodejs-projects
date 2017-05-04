@@ -1,1 +1,2 @@
-# chat-node
+# chat-node example
+### An example of chat developed with nodejs, using module net.
